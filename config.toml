@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "Embeds"
+baseURL = "https:\/\/video.bedbathandbeyond.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758166"
+subfolder = ""
+firstpartycookies = false
+cookiedomain = "bedbathandbeyond.com"
