@@ -22,8 +22,6 @@
     "id": "66104345",
     "loginId": "1758166",
     "entityType": "1",
-    "sortOrder": "45",
-    "entityIdParent": "6410338",
     "titleTextEncoded": "Best-Skin-Care-Products-Routine-for-Your-Skin-Type-AVEENO",
     "category": "",
     "duration": 63,
@@ -47,14 +45,7 @@
     "CVV_VI": null,
     "engagement_score": 3,
     "conversion_score": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-08-23"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
     "tvp_profiles": [
         "4",
         "9"

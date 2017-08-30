@@ -22,8 +22,6 @@
     "id": "78471897",
     "loginId": "1758166",
     "entityType": "1",
-    "sortOrder": "242",
-    "entityIdParent": "6410334",
     "titleTextEncoded": "Laugh-Learn-Smart-Stages-Chair",
     "category": null,
     "duration": 11,
@@ -46,14 +44,7 @@
     "CVV_VI": null,
     "engagement_score": 0,
     "conversion_score": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-08-23"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
     "tvp_profiles": [
         "12",
         "18",

@@ -22,8 +22,6 @@
     "id": "69897427",
     "loginId": "1758166",
     "entityType": "1",
-    "sortOrder": "156",
-    "entityIdParent": "85595586",
     "titleTextEncoded": "Cringeworthy-Messes-Handled-Easily-by-Shark-Rocket-Complete",
     "category": "",
     "duration": 77,
@@ -47,13 +45,7 @@
     "CVV_VI": null,
     "engagement_score": 11,
     "conversion_score": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "engagement_score": {
-                "lastUpdatedDate": "2017-08-23"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
     "tvp_profiles": [
         "25",
         "18"

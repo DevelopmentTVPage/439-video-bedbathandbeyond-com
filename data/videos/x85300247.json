@@ -22,8 +22,6 @@
     "id": "85300247",
     "loginId": "1758166",
     "entityType": "1",
-    "sortOrder": "511",
-    "entityIdParent": "85595586",
     "titleTextEncoded": "Rug-doctor-mighty-pro-X3-review-Will-be-bringing-more-videos-on-how-it-cleans-Please-subscribe",
     "category": null,
     "duration": 72,
@@ -46,14 +44,7 @@
     "CVV_VI": null,
     "engagement_score": 0,
     "conversion_score": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-08-23"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
     "tvp_profiles": [
         "11"
     ],

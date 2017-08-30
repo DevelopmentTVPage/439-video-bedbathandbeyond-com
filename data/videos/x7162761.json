@@ -22,8 +22,6 @@
     "id": "7162761",
     "loginId": "1758166",
     "entityType": "1",
-    "sortOrder": "4",
-    "entityIdParent": "6288329",
     "titleTextEncoded": "Your-Life-Your-Bag-Altmont-3-0-Collection",
     "category": "",
     "duration": "68",
@@ -45,13 +43,7 @@
     "CVV_VI": null,
     "engagement_score": 0,
     "conversion_score": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "engagement_score": {
-                "lastUpdatedDate": "2017-08-23"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
     "tvp_profiles": [
         "12",
         "14",

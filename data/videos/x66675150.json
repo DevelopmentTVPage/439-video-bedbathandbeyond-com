@@ -22,8 +22,6 @@
     "id": "66675150",
     "loginId": "1758166",
     "entityType": "1",
-    "sortOrder": "24",
-    "entityIdParent": "6410335",
     "titleTextEncoded": "Marc-Fosh-s-fillet-steak-with-celeriac-apple-remoulade-recipe",
     "category": "",
     "duration": 205,
@@ -47,13 +45,7 @@
     "CVV_VI": null,
     "engagement_score": 3,
     "conversion_score": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "engagement_score": {
-                "lastUpdatedDate": "2017-08-23"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
     "tvp_profiles": [
         "14",
         "9",

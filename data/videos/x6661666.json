@@ -22,8 +22,6 @@
     "id": "6661666",
     "loginId": "1758166",
     "entityType": "1",
-    "sortOrder": "83",
-    "entityIdParent": "6410336",
     "titleTextEncoded": "Gridlock",
     "category": null,
     "duration": "15",
@@ -44,20 +42,7 @@
     "CVV_VI": "1",
     "engagement_score": 8,
     "conversion_score": "25",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-08-23"
-            }
-        },
-        "CVV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "conversion_score": {
-                "lastUpdatedDate": "2017-05-27"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-27\"}}}",
     "tvp_profiles": [
         "18",
         "21",

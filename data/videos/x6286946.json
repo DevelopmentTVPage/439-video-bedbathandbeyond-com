@@ -22,8 +22,6 @@
     "id": "6286946",
     "loginId": "1758166",
     "entityType": "1",
-    "sortOrder": "10",
-    "entityIdParent": "6286995",
     "titleTextEncoded": "Tripping-over-your-own-cord-The-Dyson-V6-cordless-range-sets-you-free-Official-Dyson-Video",
     "category": null,
     "duration": "30",
@@ -44,13 +42,7 @@
     "CVV_VI": null,
     "engagement_score": 0,
     "conversion_score": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "engagement_score": {
-                "lastUpdatedDate": "2017-08-23"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
     "tvp_profiles": [
         "30"
     ],

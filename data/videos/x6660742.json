@@ -22,8 +22,6 @@
     "id": "6660742",
     "loginId": "1758166",
     "entityType": "1",
-    "sortOrder": "53",
-    "entityIdParent": "6410336",
     "titleTextEncoded": "How-To-Be-a-Chick-Magnet",
     "category": null,
     "duration": "8",
@@ -44,20 +42,7 @@
     "CVV_VI": "2",
     "engagement_score": 16,
     "conversion_score": "50",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-08-23"
-            }
-        },
-        "CVV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "conversion_score": {
-                "lastUpdatedDate": "2017-05-27"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-27\"}}}",
     "tvp_profiles": [
         "18",
         "4",

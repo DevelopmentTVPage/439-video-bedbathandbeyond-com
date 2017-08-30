@@ -22,8 +22,6 @@
     "id": "81583682",
     "loginId": "1758166",
     "entityType": "1",
-    "sortOrder": "52",
-    "entityIdParent": "6410334",
     "titleTextEncoded": "Starfrit-Drum-Grater-R\u00e2pe-\u00e0-tambour-94237",
     "category": null,
     "duration": 42,
@@ -46,14 +44,7 @@
     "CVV_VI": null,
     "engagement_score": 0,
     "conversion_score": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-08-23"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
     "tvp_profiles": [
         "18"
     ],

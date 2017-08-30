@@ -22,8 +22,6 @@
     "id": "85323445",
     "loginId": "1758166",
     "entityType": "1",
-    "sortOrder": "563",
-    "entityIdParent": "85595586",
     "titleTextEncoded": "686-Picnic-Time-Mega-Can-Cooler",
     "category": null,
     "duration": 10000,
@@ -46,13 +44,7 @@
     "CVV_VI": null,
     "engagement_score": 0,
     "conversion_score": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "engagement_score": {
-                "lastUpdatedDate": "2017-08-23"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
     "tvp_profiles": [
         "18"
     ],

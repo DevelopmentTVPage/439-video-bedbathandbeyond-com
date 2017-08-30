@@ -22,8 +22,6 @@
     "id": "66858531",
     "loginId": "1758166",
     "entityType": "1",
-    "sortOrder": "88",
-    "entityIdParent": "6410336",
     "titleTextEncoded": "Croscill-waterfall-swag-valance-installation",
     "category": null,
     "duration": 218,
@@ -46,20 +44,7 @@
     "CVV_VI": "2",
     "engagement_score": 19,
     "conversion_score": "50",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-08-23"
-            }
-        },
-        "CVV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "conversion_score": {
-                "lastUpdatedDate": "2017-05-27"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-27\"}}}",
     "tvp_profiles": [
         "2",
         "11",
