@@ -22,6 +22,8 @@
     "id": "7164411",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "6287504",
     "titleTextEncoded": "Kenneth-Cole-Reaction-Home-Dream-Comforter-Bedding-Ensemble-at-Bed-Bath-Beyond",
     "category": "",
     "duration": "88",
@@ -43,7 +45,14 @@
     "CVV_VI": null,
     "engagement_score": 0,
     "conversion_score": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-08-23"
+            }
+        }
+    },
     "tvp_profiles": [
         "18"
     ],

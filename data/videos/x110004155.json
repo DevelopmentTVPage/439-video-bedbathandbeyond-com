@@ -22,6 +22,8 @@
     "id": "110004155",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "3000",
+    "entityIdParent": "111091684",
     "titleTextEncoded": "Aquaduck-Facet-Extender",
     "category": "",
     "duration": "93",

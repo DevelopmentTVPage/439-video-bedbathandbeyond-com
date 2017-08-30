@@ -22,6 +22,8 @@
     "id": "66297950",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "52",
+    "entityIdParent": "6410336",
     "titleTextEncoded": "Valet-Charge-Dock-for-Apple-Watch-iPhone",
     "category": "",
     "duration": 39,
@@ -45,7 +47,20 @@
     "CVV_VI": "4",
     "engagement_score": 23,
     "conversion_score": "100",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-27\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-08-23"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-27"
+            }
+        }
+    },
     "tvp_profiles": [
         "11",
         "12"

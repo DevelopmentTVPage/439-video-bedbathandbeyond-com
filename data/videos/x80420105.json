@@ -22,6 +22,8 @@
     "id": "80420105",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "6286047",
     "titleTextEncoded": "The-KitchenAid-2-Speed-Hand-Blender",
     "category": null,
     "duration": 57,
@@ -44,7 +46,14 @@
     "CVV_VI": null,
     "engagement_score": 0,
     "conversion_score": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-08-23"
+            }
+        }
+    },
     "tvp_profiles": [
         "18"
     ],

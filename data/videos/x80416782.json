@@ -22,6 +22,8 @@
     "id": "80416782",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "135",
+    "entityIdParent": "6410334",
     "titleTextEncoded": "PT300RETRORED-50s-Style-Electric-Spiral-Twister-Peeler",
     "category": null,
     "duration": 74,
@@ -44,7 +46,13 @@
     "CVV_VI": null,
     "engagement_score": 0,
     "conversion_score": null,
-    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2017-08-23"
+            }
+        }
+    },
     "tvp_profiles": [
         "18"
     ],

@@ -22,6 +22,8 @@
     "id": "109967814",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "5269",
+    "entityIdParent": "111091684",
     "titleTextEncoded": "Kiinde\u00e2-Twist",
     "category": "",
     "duration": "94",
@@ -84,7 +86,13 @@
     "CVV_VI": "",
     "engagement_score": 0,
     "conversion_score": "",
-    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2017-08-23"
+            }
+        }
+    },
     "tvp_profiles": [
         "4",
         "18",

@@ -22,6 +22,8 @@
     "id": "85202705",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "26",
+    "entityIdParent": "6410338",
     "titleTextEncoded": "Kenneth-Cole-Reaction-Home-Standing-Valet-at-Bed-Bath-Beyond",
     "category": null,
     "duration": 62,
@@ -44,7 +46,13 @@
     "CVV_VI": null,
     "engagement_score": 10,
     "conversion_score": null,
-    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2017-08-23"
+            }
+        }
+    },
     "tvp_profiles": [
         "18"
     ],

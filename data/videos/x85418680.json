@@ -22,6 +22,8 @@
     "id": "85418680",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "9",
+    "entityIdParent": "66185736",
     "titleTextEncoded": "Bench-Workout",
     "category": null,
     "duration": 15,

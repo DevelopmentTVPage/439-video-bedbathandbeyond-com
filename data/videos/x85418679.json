@@ -22,6 +22,8 @@
     "id": "85418679",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "10",
+    "entityIdParent": "66185736",
     "titleTextEncoded": "iFit-5-Minute-MetCon",
     "category": null,
     "duration": 15,

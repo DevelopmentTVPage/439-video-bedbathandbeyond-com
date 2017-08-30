@@ -22,6 +22,8 @@
     "id": "85418686",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "66185736",
     "titleTextEncoded": "iFit-Ab-Workout",
     "category": null,
     "duration": 15,

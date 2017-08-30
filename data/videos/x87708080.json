@@ -22,6 +22,8 @@
     "id": "87708080",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "138",
+    "entityIdParent": "85595586",
     "titleTextEncoded": "iON16LM-Sun-Joe-Brushless-40-Volt-Cordless-Battery-Powered-Lawn-Mower-Live-Demo-Cut-the-Cord",
     "category": null,
     "duration": 163,
@@ -44,7 +46,14 @@
     "CVV_VI": null,
     "engagement_score": 2,
     "conversion_score": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-08-23"
+            }
+        }
+    },
     "tvp_profiles": [
         "18"
     ],

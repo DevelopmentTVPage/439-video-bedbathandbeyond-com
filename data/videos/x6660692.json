@@ -22,6 +22,8 @@
     "id": "6660692",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "109",
+    "entityIdParent": "6410335",
     "titleTextEncoded": "Coffee-Plus-12-Cup-Programmable-Coffeemaker-plus-Hot-Water-System-en-Espa\u00f1ol-CHW-12",
     "category": null,
     "duration": "30",
@@ -44,7 +46,13 @@
     "CVV_VI": null,
     "engagement_score": 1,
     "conversion_score": null,
-    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2017-08-23"
+            }
+        }
+    },
     "tvp_profiles": [
         "18"
     ],

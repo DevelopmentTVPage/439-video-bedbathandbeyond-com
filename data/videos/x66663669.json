@@ -22,6 +22,8 @@
     "id": "66663669",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "55",
+    "entityIdParent": "6410336",
     "titleTextEncoded": "Janome-Horizon-Memory-Craft-9400-QCP-Weekend-Sewing-Getaway",
     "category": null,
     "duration": 113,
@@ -44,7 +46,14 @@
     "CVV_VI": null,
     "engagement_score": 12,
     "conversion_score": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-08-23"
+            }
+        }
+    },
     "tvp_profiles": [
         "14",
         "25",

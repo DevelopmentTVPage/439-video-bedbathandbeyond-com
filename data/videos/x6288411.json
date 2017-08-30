@@ -22,6 +22,8 @@
     "id": "6288411",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "20",
+    "entityIdParent": "6288382",
     "titleTextEncoded": "Britax-B-Safe-35-Infant-Car-Seat-Product-Video",
     "category": null,
     "duration": "94",
@@ -42,7 +44,14 @@
     "CVV_VI": null,
     "engagement_score": 0,
     "conversion_score": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-08-23"
+            }
+        }
+    },
     "tvp_profiles": [
         "3"
     ],

@@ -22,6 +22,8 @@
     "id": "110010875",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "5772",
+    "entityIdParent": "111091684",
     "titleTextEncoded": "MedelaFreestyle1-FT7905",
     "category": "",
     "duration": "114",
@@ -92,7 +94,13 @@
     "CVV_VI": "",
     "engagement_score": 0,
     "conversion_score": "",
-    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2017-08-23"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": "",
     "tvp_profiles_maxscore": 0,

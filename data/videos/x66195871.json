@@ -22,6 +22,8 @@
     "id": "66195871",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "42",
+    "entityIdParent": "66185736",
     "titleTextEncoded": "Fitbit-Alta-Get-Moving",
     "category": "",
     "duration": 30,

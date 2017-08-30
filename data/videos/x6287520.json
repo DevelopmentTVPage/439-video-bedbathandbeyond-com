@@ -22,6 +22,8 @@
     "id": "6287520",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "17",
+    "entityIdParent": "6287504",
     "titleTextEncoded": "Kenneth-Cole-Reaction-Home-Gradient-Smoke-Area-Rug-at-Bed-Bath-Beyond",
     "category": null,
     "duration": "53",
@@ -42,7 +44,14 @@
     "CVV_VI": null,
     "engagement_score": 0,
     "conversion_score": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-08-23"
+            }
+        }
+    },
     "tvp_profiles": [
         "18"
     ],

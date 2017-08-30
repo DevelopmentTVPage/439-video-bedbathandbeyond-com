@@ -22,6 +22,8 @@
     "id": "85307097",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "34",
+    "entityIdParent": "6410336",
     "titleTextEncoded": "Zuo-Modern-Trafico-Office-Chair",
     "category": null,
     "duration": 30,
@@ -44,7 +46,13 @@
     "CVV_VI": null,
     "engagement_score": 1,
     "conversion_score": null,
-    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2017-08-23"
+            }
+        }
+    },
     "tvp_profiles": [
         "24"
     ],

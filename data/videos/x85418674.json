@@ -22,6 +22,8 @@
     "id": "85418674",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "15",
+    "entityIdParent": "66185736",
     "titleTextEncoded": "Quick-fix-for-iFit-Vue-Button-Responsiveness",
     "category": null,
     "duration": 61,

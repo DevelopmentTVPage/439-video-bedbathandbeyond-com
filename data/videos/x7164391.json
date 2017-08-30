@@ -22,6 +22,8 @@
     "id": "7164391",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "6287504",
     "titleTextEncoded": "Kenneth-Cole-Reaction-Home-Mineral-Bedding-Collection",
     "category": "",
     "duration": "15",
@@ -43,7 +45,13 @@
     "CVV_VI": null,
     "engagement_score": 5,
     "conversion_score": null,
-    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2017-08-23"
+            }
+        }
+    },
     "tvp_profiles": [
         "18"
     ],

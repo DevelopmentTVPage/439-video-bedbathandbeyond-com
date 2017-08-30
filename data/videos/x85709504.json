@@ -22,6 +22,8 @@
     "id": "85709504",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "382",
+    "entityIdParent": "85595586",
     "titleTextEncoded": "How-to-Decorate-Cupcakes-with-Tip-100-8-ways",
     "category": null,
     "duration": 205,
@@ -44,7 +46,13 @@
     "CVV_VI": null,
     "engagement_score": 0,
     "conversion_score": null,
-    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2017-08-23"
+            }
+        }
+    },
     "tvp_profiles": [
         "19",
         "4",
