@@ -11,5 +11,6 @@
     "title": "Bob",
     "name": "bob",
     "channelId": "102373911",
-    "layout": "bootstrap"
+    "layout": "bootstrap",
+    "autoplay": true
 }
